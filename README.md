@@ -3,5 +3,5 @@ Here are the some of the various Assembly based projects I've worked on. Some ar
 
 # Languages
 The two main languages you will see are:
-* 8051
-* MIPS
+* 8051 
+* MIPS (This class mainly focused on concepts rather than code.)
